@@ -1,0 +1,6 @@
+[submodule "imu_utils"]
+	path = imu_utils
+	url = https://github.com/soulde/imu_utils.git
+[submodule "code_utils"]
+	path = code_utils
+	url = https://github.com/soulde/code_utils.git
